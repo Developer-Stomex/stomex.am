@@ -8,7 +8,6 @@ $(document).ready(function () {
       loop: true,
       navigation: true, // Show next and prev buttons
       slideSpeed: 300,
-      animateOut: 'fadeOut',
       paginationSpeed: 400,
       singleItem: true,
       dots: true,
